@@ -1,1 +1,1 @@
-# test_for_recruto
+# Тестовое задание для Recruto
